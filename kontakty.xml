@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<adresar>
+  <kontakt>
+  <jmeno>Losdrem</jmeno>
+  <prijmeni>Ipasum</prijmeni>
+  <adresa>Lipsum 123</adresa>
+  <telefon>123456</telefon>
+  <mobil>98764</mobil>
+  <email>lore@ipsum.com</email>
+  </kontakt>
+  <kontakt>
+  <jmeno>adgLorem</jmeno>
+  <prijmeni>Ipdgsum</prijmeni>
+  <adresa>Lipsum 123</adresa>
+  <telefon>123456</telefon>
+  <mobil>98764</mobil>
+  <email>lore@ipsum.com</email>
+  </kontakt>
+  <kontakt>
+  <jmeno>Loradfem</jmeno>
+  <prijmeni>Ipsfsum</prijmeni>
+  <adresa>Lipsum 123</adresa>
+  <telefon>123456</telefon>
+  <mobil>98764</mobil>
+  <email>lore@ipsum.com</email>
+  </kontakt>
+  <kontakt>
+  <jmeno>Lorem</jmeno>
+  <prijmeni>Ipsum</prijmeni>
+  <adresa>Lipsum 123</adresa>
+  <telefon>123456</telefon>
+  <mobil>98764</mobil>
+  <email>lore@ipsum.com</email>
+  </kontakt>
+  <kontakt>
+  <jmeno>zadforem</jmeno>
+  <prijmeni>zdfgahart</prijmeni>
+  <adresa>Lipsum 123</adresa>
+  <telefon>123456</telefon>
+  <mobil>98764</mobil>
+  <email>lore@ipsum.com</email>
+</kontakt>
+</adresar>
